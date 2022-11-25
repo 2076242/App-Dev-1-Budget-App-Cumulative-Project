@@ -2,7 +2,8 @@
   <img src="./Screenshot.png" height="300px">
 </p>
 
-A budget application for small households, developped using WPF and an SQLite database. It was create by myself, Chase Lipari and Julian Hernandez Delgado, two of my fellow classmates in our Application Developpment 1 class. Which involved use practicing SCRUM Developpment as well as developpment of a WPF application through out the semester.
+A budget application for small households, developped using WPF and an SQLite database. It was created by myself, Chase Lipari and Julian Hernandez Delgado, two of my fellow classmates in our Application Developpment 1 class. Which involved use practicing SCRUM Developpment as well as developpment of a WPF application through out the semester.
+The application saves inputed expenses and incomes and is able to represent this data through tables and graphs to help households better keep track of their finances.
   
 
 
