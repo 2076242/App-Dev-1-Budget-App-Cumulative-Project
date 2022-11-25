@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Screenshot.jpg" height="300px">
+  <img src="./Screenshot.png" height="300px">
 </p>
 
 A budget application for small households, developped using WPF and an SQLite database. It was create by myself, Chase Lipari and Julian Hernandez Delgado, two of my fellow classmates in our Application Developpment 1 class. Which involved use practicing SCRUM Developpment as well as developpment of a WPF application through out the semester.
